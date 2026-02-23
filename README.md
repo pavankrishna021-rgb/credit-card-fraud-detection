@@ -3,7 +3,7 @@
 Deep learning fraud detection system trained on 284,807 real European credit card transactions with extreme class imbalance (0.17% fraud).
 
 ## Live Demo
-🔴 [Try it here](http://13.40.229.203:8502)
+🔴 [Try it here](http://18.132.228.208:8502)
 
 ## The Problem
 - Only 0.17% of transactions are fraudulent (492 out of 284,807)
